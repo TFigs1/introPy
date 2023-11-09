@@ -2,6 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
+snake game that adds a random length each time
 Pokedex app that syncs with you're pokemon go account on phone
 pokedex app that shows how pokemon are obtained
 some sort of program that will text remind me when assignments deadlines are approaching
